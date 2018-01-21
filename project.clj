@@ -1,6 +1,6 @@
 (defproject cljsql "0.1.0-SNAPSHOT"
 
-  :description "FIXME: write description"
+  :description "FIXME: starts web server and shows a list of URLs stored in H2 db"
   :url "http://example.com/FIXME"
 
   :dependencies [[clj-time "0.14.2"]
